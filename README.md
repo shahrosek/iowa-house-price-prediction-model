@@ -2,7 +2,7 @@
 
 > **Note:** The notebook in this repository is a clean version with all cell outputs cleared for fast rendering on GitHub.
 >
-> **➡️ [View the fully rendered notebook on NBViewer](https://nbviewer.org/github/shahrosek/iowa-house-price-prediction/blob/main/house-price-prediction-eda-and-feature-engineering.ipynb)**
+> **➡️ [View the fully rendered notebook on NBViewer](https://nbviewer.org/github/shahrosek/iowa-house-price-prediction-model/blob/main/house-price-prediction-eda-and-feature-engineering.ipynb)**
 >
 > **➡️ [View the original notebook on Kaggle](https://www.kaggle.com/code/shahrosek/house-price-prediction-eda-and-feature-engineering/notebook)**
 
